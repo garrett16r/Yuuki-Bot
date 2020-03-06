@@ -1,0 +1,37 @@
+{
+  "name": "yuuki-bot",
+  "version": "1.0.0",
+  "description": "Discord.js bot for personal use",
+  "homepage": "https://github.com/syntthetix/Yuuki-Bot",
+  "author": "Syntthetix",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "init.js",
+  "keywords": [],
+  "scripts": {
+    "bot": "node ./lib/init.js",
+    "start": "node ./lib/init.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntthetix/Yuuki-Bot.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syntthetix/Yuuki-Bot/issues"
+  },
+  "dependencies": {
+    "discord.js": "^11.6.1",
+    "discord.js-commando": "^0.9.0",
+    "dotenv": "^4.0.0",
+    "sqlite": "^2.2.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
