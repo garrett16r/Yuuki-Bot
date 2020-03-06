@@ -10,11 +10,11 @@
   "files": [
     "lib"
   ],
-  "main": "init.js",
+  "main": "index.js",
   "keywords": [],
   "scripts": {
-    "bot": "node ./lib/init.js",
-    "start": "node ./lib/init.js"
+    "bot": "node ./lib/index.js",
+    "start": "node ./lib/index.js"
   },
   "repository": {
     "type": "git",
