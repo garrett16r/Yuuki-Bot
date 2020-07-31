@@ -1,6 +1,6 @@
 {
   "name": "yuuki-bot",
-  "version": "1.5.1",
+  "version": "1.6.0",
   "description": "Discord.js bot for personal use",
   "homepage": "https://github.com/syntthetix/Yuuki-Bot",
   "author": "Syntthetix",
@@ -29,7 +29,8 @@
     "discord.js-commando": "github:discordjs/Commando",
     "dotenv": "^4.0.0",
     "ffmpeg-static": "^4.0.1",
-    "leaguejs": "^2.1.2"
+    "leaguejs": "^2.1.2",
+    "mysql": "^2.18.1"
   },
   "directories": {
     "lib": "lib"
