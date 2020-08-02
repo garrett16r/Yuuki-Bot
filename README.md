@@ -1,4 +1,4 @@
-# Yuuki-Bot v1.6.2
+# Yuuki-Bot v1.6.3
 A discord.js-based Discord bot for personal use. Yes these commit messages are extremely dumb.
 
 ## Todo
@@ -11,6 +11,7 @@ A discord.js-based Discord bot for personal use. Yes these commit messages are e
 
 ## Setup
 ```
+(in MySQL) CREATE DATABASE yuuki;
 cp .env.sample .env
 npm install
 npm start
