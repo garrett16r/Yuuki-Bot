@@ -14,7 +14,7 @@ A discord.js-based Discord bot for personal use. Yes these commit messages are e
 /* in MySQL: */
 CREATE DATABASE yuuki;
 ```
-```js
+```pwsh
 //in Terminal or Windows PowerShell:
 cp .env.sample .env
 npm install
