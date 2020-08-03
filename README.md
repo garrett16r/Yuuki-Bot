@@ -4,6 +4,7 @@ A discord.js-based Discord bot for personal use. Yes these commit messages are e
 ## Todo
 - Give Noah a therapy bot because this is the age we live in (make him code it if he wants it)
 - Expand shiny message system with MySQL database
+- Add XP leaderboard command
 
 ## Requirements
 - NodeJS >= 12.0
