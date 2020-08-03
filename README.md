@@ -15,7 +15,7 @@ A discord.js-based Discord bot for personal use. Yes these commit messages are e
 CREATE DATABASE yuuki;
 ```
 ```pwsh
-//in Terminal or Windows PowerShell:
+# in Terminal or Windows PowerShell:
 cp .env.sample .env
 npm install
 npm start
