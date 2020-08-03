@@ -11,7 +11,10 @@ A discord.js-based Discord bot for personal use. Yes these commit messages are e
 
 ## Setup
 ```
-(in MySQL) CREATE DATABASE yuuki;
+in MySQL:
+CREATE DATABASE yuuki;
+----------------------
+in Terminal or Windows PowerShell:
 cp .env.sample .env
 npm install
 npm start
