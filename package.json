@@ -1,6 +1,6 @@
 {
   "name": "yuuki-bot",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "description": "Discord.js bot for personal use",
   "homepage": "https://github.com/syntthetix/Yuuki-Bot",
   "author": "Syntthetix",
@@ -25,6 +25,7 @@
     "url": "https://github.com/syntthetix/Yuuki-Bot/issues"
   },
   "dependencies": {
+    "csv-parser": "^2.3.3",
     "discord.js": "^12.2.0",
     "discord.js-commando": "github:discordjs/Commando",
     "dotenv": "^4.0.0",

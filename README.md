@@ -1,7 +1,8 @@
-# Yuuki-Bot v1.7.1
+# Yuuki-Bot v1.7.2
 A discord.js-based Discord bot for personal use. Yes these commit messages are extremely dumb.
 
 ## Todo
+- Allow selection of Alolan/Galarian forms as shiny targets
 - Give Noah a therapy bot because this is the age we live in (make him code it if he wants it)
 
 ## Requirements
