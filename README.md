@@ -1,8 +1,7 @@
-# Yuuki-Bot v1.7.2
+# Yuuki-Bot v1.7.3
 A discord.js-based Discord bot for personal use. Yes these commit messages are extremely dumb.
 
 ## Todo
-- Allow selection of Alolan/Galarian forms as shiny targets
 - Give Noah a therapy bot because this is the age we live in (make him code it if he wants it)
 
 ## Requirements
@@ -20,3 +19,4 @@ cp .env.sample .env
 npm install
 npm start
 ```
+Be sure to start the bot twice the first time in order to be sure all Pokemon data is read in correctly. Apparently it doesn't like reading in 900+ records at once.
