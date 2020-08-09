@@ -19,4 +19,4 @@ cp .env.sample .env
 npm install
 npm start
 ```
-Be sure to start the bot twice the first time in order to be sure all Pokemon data is read in correctly. Apparently it doesn't like reading in 900+ records at once.
+Be sure to start the bot twice the first time in order to be sure all Pokemon data is read in correctly. Apparently it doesn't like reading in 900+ records at once. Or that may just be my computer. I'm actually not sure anymore.
