@@ -1,4 +1,4 @@
-# Yuuki-Bot v1.7.5
+# Yuuki-Bot v1.7.6
 A discord.js-based Discord bot for personal use. Yes these commit messages are extremely dumb.
 
 ## Todo
