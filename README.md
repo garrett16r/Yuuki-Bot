@@ -2,7 +2,7 @@
 A discord.js-based Discord bot for personal use. Yes these commit messages are extremely dumb.
 
 ## Todo
-- Give Noah a therapy bot because this is the age we live in (make him code it if he wants it)
+- Give Nat a therapy bot because this is the age we live in (make her code it if she wants it)
 
 ## Requirements
 - NodeJS >= 12.0
