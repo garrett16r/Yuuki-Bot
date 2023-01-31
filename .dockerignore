@@ -1,0 +1,5 @@
+node_modules
+.env
+npm-debug.log
+.node-persist
+heroku-db.bat

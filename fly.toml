@@ -1,4 +1,4 @@
-# fly.toml file generated for yuuki-bot on 2022-09-06T16:50:27-04:00
+# fly.toml file generated for yuuki-bot on 2022-09-06T17:02:38-04:00
 
 app = "yuuki-bot"
 kill_signal = "SIGINT"
